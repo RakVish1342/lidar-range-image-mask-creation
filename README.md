@@ -7,7 +7,7 @@ A PCD pointcloud is read into CloudCompare (CC). CC is then used to segment and 
 #### Usage:
 
 
-**Youtube Walkthrouh:** ```ADD LINK```
+**Youtube Walkthrouh:** [https://youtu.be/B61WNd7R_w4](https://youtu.be/B61WNd7R_w4)
 
 
 1. **As Standalone CPP Package (lidar_seg/)**
